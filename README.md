@@ -1,2 +1,2 @@
-# software-develops
-Software Develops
+# software-develop
+Software Develop
